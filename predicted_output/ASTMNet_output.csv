@@ -1,0 +1,2 @@
+image name,non-mitosis score,mitosis score,non-mitosis-probability,mitosis-probability,Actual class,Predicted class,Actual label,Predicted label
+27_01_10.jpg,2.5730180740356445,-2.097560405731201,0.9907200336456299,0.009279925376176834,non-mitosis,non-mitosis,0,0
